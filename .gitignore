@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 data/
+# pixi environments
+.pixi/*
+!.pixi/config.toml

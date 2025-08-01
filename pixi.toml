@@ -1,0 +1,16 @@
+[workspace]
+authors = ["Hyunwoo Lee <hyunwoolee488@gmail.com>"]
+channels = ["conda-forge"]
+name = "ocean-research"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.13.5,<3.14"
+numpy = ">=2.3.2,<3"
+scipy = ">=1.16.0,<2"
+matplotlib = ">=3.10.5,<4"
+pandas = ">=2.3.1,<3"
+iris = ">=3.12.2,<4"
