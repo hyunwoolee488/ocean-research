@@ -16,3 +16,4 @@ gsw-xarray
 cmocean
 sympy
 scikit-learn
+cython
